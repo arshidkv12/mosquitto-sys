@@ -2,6 +2,8 @@
 name = "mosquitto-sys"
 version = "0.1.0"
 authors = ["Elie Génard <elaye.github.io@gmail.com>"]
+description = "System bindings to libmosquitto"
+license = "MIT"
 build = "build.rs"
 links = "mosquitto"
 

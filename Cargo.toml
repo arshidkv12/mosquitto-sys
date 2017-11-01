@@ -1,0 +1,9 @@
+[package]
+name = "mosquitto-sys"
+version = "0.1.0"
+authors = ["Elie Génard <elaye.github.io@gmail.com>"]
+build = "build.rs"
+links = "mosquitto"
+
+[build-dependencies]
+bindgen = "0.26.3"

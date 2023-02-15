@@ -11,4 +11,4 @@ build = "build.rs"
 links = "mosquitto"
 
 [build-dependencies]
-bindgen = "0.26.3"
+bindgen = "*"

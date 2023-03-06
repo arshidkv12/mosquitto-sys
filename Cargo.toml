@@ -1,6 +1,6 @@
 [package]
 name = "mosquitto-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Elie Génard <elaye.github.io@gmail.com>"]
 description = "System bindings to libmosquitto"
 documentation = "https://github.com/elaye/mosquitto-sys"
